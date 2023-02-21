@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Davide, a quantitative sociologist from Bergamo (Italy). I'm a PhD candidate at the School of Social Sciences, University of Trento (Italy). I am a member of the Center for Social Inequality Studies (CSIS). 
+Hi! I'm Davide, a quantitative sociologist from Bergamo (Italy). I'm a PhD candidate at the School of Social Sciences, University of Trento (Italy), and a member of the Center for Social Inequality Studies [(CSIS)](https://r.unitn.it/en/soc/csis). 
 
 I work on topics related to social inequality and family sociology. 
 
