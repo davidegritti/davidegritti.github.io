@@ -16,3 +16,9 @@ Zamberlan, A., Gioachin, F., & Gritti, D. (2022). Gender inequality in domestic 
 Zamberlan, A., Gioachin, F., & Gritti, D. (2021). Work less, help out more? The persistence of gender inequality in housework and childcare during UK COVID-19. [Research in Social Stratification and Mobility](https://www.sciencedirect.com/science/article/pii/S0276562421000032) 
 
 Gritti, D., & Cutuli, G. (2021). Brick-by-brick inequality. Homeownership in Italy, employment instability and wealth transmission. [Advances in Life Course Research](https://www.sciencedirect.com/science/article/pii/S1040260821000162)
+
+## Book chapters 
+
+Zamberlan, A., Gritti, D., Grotti, R., Scherer, S., & Barbieri, P. (2023) Labour market entry and early career
+of persons with migration background in Italy: Finally in but never established? in Darmody, M. & Smyth,
+E., [Post-school Pathways of Migrant-Origin Youth in Europe](https://www.routledge.com/Post-school-Pathways-of-Migrant-Origin-Youth-in-Europe/Darmody-Smyth/p/book/9781032245713). Routledge.
